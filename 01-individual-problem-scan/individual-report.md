@@ -8,7 +8,11 @@
 - Mã học viên: 2A202602451
 - Vai trò / bối cảnh (VD: sinh viên năm X, intern PM, ...): Là học viên của khóa 4 chương trình thực chiến AI của tập đoàn VinGroup
 - Công việc hằng tuần (3-5 gạch đầu dòng để soi problem):
-
+Mua thực phẩm, kiểm tra đồ còn trong tủ lạnh và tự chuẩn bị/nấu ăn trong tuần.
+Theo dõi chi tiêu cá nhân, các khoản thanh toán định kỳ và subscription đang sử dụng.
+Mua sắm online, so sánh sản phẩm và xử lý các trường hợp cần đổi/trả hàng.
+Di chuyển hằng ngày giữa nhà, trường hoặc nơi làm việc và lựa chọn tuyến đường/thời gian phù hợp.
+Sử dụng điện thoại, mạng xã hội và các dịch vụ online hằng ngày; thường xuyên xử lý thông báo, tài khoản và thông tin từ nhiều ứng dụng.
 ---
 
 ## Phase 1 — Scan 5+ problems (tối thiểu 5, khuyến khích 8-10)
